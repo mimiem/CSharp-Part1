@@ -1,0 +1,34 @@
+Programming languages
+* Perform a research (e.g. in Google or Wikipedia) and provide a short list with information about the most popular programming languages. How similar are they to C#? How do they differ from C#?
+* Write in a text file called “programming-languages.txt” at least five languages along with 2-3 sentences about each of them. Use English.
+
+	Java 
+     The special thing about Java is that this is the first purely object oriented programming language. It's one of the most in-demand programming languages, a standard for enterprise software, web-based content, games and mobile apps, as well as the Android operating system. Java is designed to work across multiple software platforms, while C# requires Windows and .NET Framework. Many developers hate Java due to it’s long syntax and complexity of codes. Java and C# are similar programming languages. Both are designed with semi-interpretation or runtime compilation in mind, both use garbage-collection, and both are "curly brace languages" like C and C++. 
+     
+	Java Script
+     JavaScript is a client and server-side scripting language developed by Netscape that derives much of its syntax from C. It can be used across multiple web browsers and is considered essential for developing interactive or animated web functions. It is also used in game development and writing desktop applications. JavaScript interpreters are embedded in Google's Chrome extensions, Apple's Safari extensions, Adobe Acrobat and Reader, and Adobe's Creative Suite. The differences between Java Script and C# are that Java Script can be run on any platform, directly in any browser and is interpreted as opposed to compiled, and that JS is not object-oriented and class-based.
+
+	PHP
+     PHP is high level interpreted programming language developed for web projects. It is widely used in Web development. Some of the popular web projects such as Facebook uses PHP as core language.  Compared to C#, PHP is dynamic and interpreted while C# is static.
+	
+	C 
+	C is imperative programming language developed in the early '70s, C is the oldest and most widely used language, providing the building blocks for other popular languages, such as C#, Java, JavaScript and Python. C is mostly used for implementing operating systems and embedded applications.
+     
+	C++ 
+     C++ language was developed in 1983 which is often considered object oriented version of C language. C++ powers major software like Firefox, Winamp and Adobe programs. It's used to develop systems software, application software, high-performance server and client applications and video games. C++ is one of the most widely used languages.
+     
+	Objective-C 
+     Objective-C is object-oriented programming language used by the Apple operating system. It powers Apple's OS X and iOS, as well as its APIs, and can be used to create iPhone apps.
+
+	Python
+     Python is a high-level, server-side scripting language for websites and mobile apps. It's considered a fairly easy language for beginners due to its readability and compact syntax. It powers the web apps for Instagram, Pinterest and Rdio through its associated web framework, Django, and is used by Google, Yahoo! and NASA. The Advantages of C# compared to Python are standard library, language features, development process and tools, performance.
+     
+	Ruby 
+     A dynamic, object-oriented scripting language for developing websites and mobile apps, Ruby was designed to be simple and easy to write. It powers the Ruby on Rails (or Rails) framework, which is used on Scribd, GitHub, Groupon and Shopify. Twitter use this framework. Ruby is simple and readable programming language mainly focused on developing web-based applications. 
+     
+	
+     
+
+
+ 
+

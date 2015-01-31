@@ -1,0 +1,19 @@
+Development Environments
+* Perform a research (e.g. in Google or Wikipedia) and provide a short list with popular development environments (IDEs) like Visual Studio.
+* Write in a text file called “list-of-IDEs.txt” at least five IDEs along with 2-3 sentences about each of them. Use English.
+
+Visual Studio – Visual Studio is a powerful integrated environment (IDE) for developing software applications for Windows and the .NET Framework platform. Visual Studio (VS) supports different programming languages and different software development technologies. It offers a powerful integrated environment for writing code, compiling, executing, debugging and testing applications, designing user interface (forms, dialogs, web pages, visual controls and others), data and class modeling, running tests and hundreds of other functions. 
+
+Mono Develop – is an IDE for the.NET platform. With MonoDevelop, we can quickly and easily write fully functional desktop and ASP.NET applications for Linux, Mac OS X and Windows. It also enables programmers to easily transfer projects created in Visual Studio to the Mono platform and make them functional in other platforms. It is completely free (open source).  
+
+Sharp Develop – #Develop is an IDE for C# and is developed as an open-source project. It supports the majority of the functionalities offered in Visual Studio but also works in Linux and other operating systems.  
+
+Eclipse – contains a base workspace and an extensible plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop applications. By means of various plug-ins, Eclipse may also be used to develop applications in other programming languages. 
+
+Net Beans – NetBeans is an IDE for developing primarily with  Java, but also with other languages, in particular PHP, C/C++, and HTML5. It is also an application platform framework for Java desktop applications and others.
+The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM.
+ 
+Code::Blocks – is a free, open source cross-platform IDE which supports multiple compilers including GCC, Clang and Visual C++. It is developed in C++ using wxWidgets as the GUI toolkit. Using a plugin architecture, its capabilities and features are defined by the provided plugins. Currently, Code::Blocks is oriented towards C, C++, and Fortran. Code::Blocks is being developed for Windows, Linux, and Mac OS X and has been ported to FreeBSD, OpenBSD and Solaris.
+ 
+
+

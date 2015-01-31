@@ -1,0 +1,5 @@
+C# and .NET Differences
+* Describe the difference between C# and .NET Framework in 2-3 sentences.
+* Write your description in a text file called “csharp-and-dot-net-framework.txt”. Use English.
+   
+	C# is a modern object-oriented, general-purpose programming language, created and developed by Microsoft together with the .NET platform. The C# language is not distributed as a standalone product – it is a part of the Microsoft .NET Framework. .NET Framework generally consists of an environment for the development and execution of programs, written in C# or some other language, compatible with .NET.
